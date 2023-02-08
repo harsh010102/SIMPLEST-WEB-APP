@@ -1,0 +1,17 @@
+/* Add CSS styles here */
+#title {
+  text-align: center;
+  color: blue;
+}
+
+#inputText {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+}
+
+#submitBtn {
+  width: 80px;
+  height: 30px;
+  margin: 10px;
+}
